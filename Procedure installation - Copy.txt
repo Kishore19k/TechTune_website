@@ -1,0 +1,20 @@
+To run this project locally, follow these steps:
+
+Clone the Repository:
+
+git clone from github Kishore19k
+Install Dependencies:
+
+cd TechTuneMotors
+npm install
+
+Set Up Environment Variables: Create a .env file in the root directory and configure the following variables:
+
+PORT=3000
+MONGO_URL=your_mongodb_connection_string
+
+Run the Application:
+
+npm run dev
+
+Access the Website: Open your browser and visit http://localhost:3000 to view the TechTune Motors website.
